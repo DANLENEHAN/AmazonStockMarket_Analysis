@@ -1,0 +1,2 @@
+# AmazonStockMarket_Analysis
+Data Science in Python assignment. The project cleans, prepares and analyzes data of Amazons Stock from 2013-2017. This includes identifying peaks and declines in Amazons stock by weekly, monthly and yearly intervals with reasons and explanation why. There is also a brief look into overall stock market trends including the weekend and January effect towards the end of the notebook. Relevant comments and markdown cells included.  
